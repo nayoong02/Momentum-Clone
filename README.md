@@ -2,10 +2,12 @@
 
 ## 🗒️ Summary
 - Nomad Coders Vanilla JS Challenge (2 week)
+- [바닐라JS 챌린지 27기 우수 졸업생 ☺️](https://nomadcoders.co/community/thread/5757)
 - 로그인 / 로그아웃
 - 랜덤 배경화면 / 명언
 - 현재 날씨 / 시각
-- TO-DO 리스트 
+- TO-DO 리스트 구현
+
 
 ## 🛠 Tech
 - HTML, CSS
